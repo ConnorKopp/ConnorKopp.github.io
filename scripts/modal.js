@@ -16,9 +16,9 @@ const projects = [
   {
     title: "Planner",
     details:
-      "A digital planner that helps users organize schedules, deadlines, and daily tasks. Features a clean interface focused on productivity and easy task management.  THIS IS A PLACEHOLDER",
+      "A Blog application that allows users to create, edit, and manage their personal blogs. as long as your an admin that is.",
     link_text: "View Project",
-    href: "#projects",
+    href: "https://github.com/ConnorKopp/blogs",
   },
   {
     title: "Task Manager",
