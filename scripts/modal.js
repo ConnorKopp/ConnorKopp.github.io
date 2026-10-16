@@ -14,11 +14,11 @@ const projects = [
     href: "https://connorkopp.github.io/Kopp-csci181-weather/",
   },
   {
-    title: "Planner",
+    title: "Blog Application",
     details:
       "A Blog application that allows users to create, edit, and manage their personal blogs. as long as your an admin that is.",
     link_text: "View Project",
-    href: "https://github.com/ConnorKopp/blogs",
+    href: " https://github.com/ConnorKopp/blogs",
   },
   {
     title: "Task Manager",
